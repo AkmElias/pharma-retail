@@ -29,7 +29,7 @@
     "node-phonenumber": "^1.0.0",
     "nodemon": "^1.18.10",
     "secret-key": "^1.4.2",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "username-generator": "^1.1.0",
     "uuid4": "^1.1.4"
   }
